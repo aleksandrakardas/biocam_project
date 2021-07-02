@@ -1,2 +1,2 @@
 # biocam project
- Program ustalający lokalizację kapsułki w przewodzie pokarmowym na podstawie określania wartości odczynu pH. 
+ Program ustalający przybliżoną lokalizację kapsułki w przewodzie pokarmowym na podstawie określania wartości odczynu pH. 
