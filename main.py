@@ -2,7 +2,7 @@ organs = [
     ["żołądek", 1.5, 2.5],
     ["dwunastnica i jelito czcze", 5.5, 7.0],
     ["jelito kręte", 6.5, 7.5],
-    ["kątnica", 5.5, 7.5],
+    ["jelito ślepe", 5.5, 7.5],
     ["jelito grube i odbytnica", 6.1, 7.5]
 ]
 
